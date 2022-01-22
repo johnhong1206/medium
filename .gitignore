@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+mediumbackend/node_modules
+mediumbackend/dist
+
+
 # testing
 /coverage
 
