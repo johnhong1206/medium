@@ -27,7 +27,7 @@ export default function Home({ posts }: Props) {
             is a place to write, read, and connect
           </h1>
           <h2 className="">
-            It's easy and free to post your thinking on any topic and connect
+            Its easy and free to post your thinking on any topic and connect
             with millions of readers.
           </h2>
         </div>
