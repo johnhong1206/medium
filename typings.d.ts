@@ -17,6 +17,12 @@ export interface Post {
     current: string;
   };
   body: object[];
+  categories: {
+    _id: string;
+    slug: {
+      current: string;
+    };
+  };
 }
 
 export interface Comment {
